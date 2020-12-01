@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1017493743841",
+    "firebase_url": "https://parcialdianag.firebaseio.com",
+    "project_id": "parcialdianag",
+    "storage_bucket": "parcialdianag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017493743841:android:749a7af0f5b60018732fa0",
+        "android_client_info": {
+          "package_name": "co.diana.parcialdianag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017493743841-6ueej1pkglp3ci8mfdn75gjk7bdgj59d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.diana.parcialdianag",
+            "certificate_hash": "e8e5983b519975147914e7509a57ba00ce279254"
+          }
+        },
+        {
+          "client_id": "1017493743841-kumk36patvtp2onals48otib3g0usue6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaBCllTaYlAG9NNjOcW5fCt6teQaaqz9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017493743841-kumk36patvtp2onals48otib3g0usue6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
